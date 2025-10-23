@@ -1,6 +1,6 @@
 namespace PracticaPoo.Classes;
 
-public class Test
+public class Query
 {
 
 }
